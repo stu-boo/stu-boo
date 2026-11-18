@@ -10,7 +10,7 @@ Head of Software Engineering at [One Stop Hire](https://www.onestophire.com), bu
 - 📊 **Sales dashboards**: live reporting and forecasting for account managers
 
 ### Tools I use
-[![Skills](https://skillicons.dev/icons?i=php,laravel,js,ts,react,mysql,git,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=php,laravel,js,ts,react,go,mysql,git,vscode)](https://skillicons.dev)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ### Connect
